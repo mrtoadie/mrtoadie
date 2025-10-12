@@ -18,6 +18,5 @@ Some of my Linux dotfiles for inspiration and use if you like
 ## Stats
 Why not?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtoadie)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtoadie&size_weight=0.5&count_weight=0.5)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtoadie&show_icons=true)  
