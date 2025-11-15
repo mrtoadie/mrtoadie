@@ -17,6 +17,7 @@ Some examples of ready to go - ansible playbooks
 ### [dotfiles](https://github.com/mrtoadie/dotfiles)
 Some of my Linux dotfiles for inspiration and use if you like
 ### [archlinux-pacman](https://github.com/mrtoadie/archlinux-pacman)
+Get more out of pacman!
 ## Stats
 Why not?
 
