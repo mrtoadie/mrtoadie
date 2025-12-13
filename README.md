@@ -18,8 +18,8 @@ Some examples of ready to go - ansible playbooks
 Some of my Linux dotfiles for inspiration and use if you like
 ### [archlinux-pacman](https://github.com/mrtoadie/archlinux-pacman)
 Get more out of pacman!
+### [GetBingWallpaper](https://github.com/mrtoadie/GetBingWallpaper)
+Download daily Bing wallpapers
 ## Stats
-Why not?
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtoadie&stats_format=bytes)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtoadie&show_icons=true) 
