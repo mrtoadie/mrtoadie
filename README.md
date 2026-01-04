@@ -13,12 +13,16 @@ Hey! I'm Toadie, welcome to my GitHub page. I love open source and Linux.
 ## Repositorys
 :small_blue_diamond: [Ansible Playbook Examples](https://github.com/mrtoadie/ansible-playbooks)
 Some examples of ready to go - ansible playbooks
+
 :small_blue_diamond: [dotfiles](https://github.com/mrtoadie/dotfiles)
 Some of my Linux dotfiles for inspiration and use if you like
+
 :small_blue_diamond: [kvm-configurator](https://github.com/mrtoadie/kvm-configurator)
 Little helper for `virt-install`
+
 :small_blue_diamond: [archlinux-pacman](https://github.com/mrtoadie/archlinux-pacman)
 Get more out of pacman!
+
 :small_blue_diamond: [GetBingWallpaper](https://github.com/mrtoadie/GetBingWallpaper)
 Download daily Bing wallpapers
 ## Stats
