@@ -27,6 +27,6 @@ Download daily Bing wallpapers
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/2080210e-144f-45d9-859e-a40c3eb775a1.svg)](https://wakatime.com/@2080210e-144f-45d9-859e-a40c3eb775a1)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=transparent)
