@@ -17,7 +17,7 @@ Some examples of ready to go - ansible playbooks
 Some of my Linux dotfiles for inspiration and use if you like
 
 :small_blue_diamond: [kvm-configurator](https://github.com/mrtoadie/kvm-configurator)
-Little helper for `virt-install`
+Small helper program for `virt-install` to easily create virtual machines in the terminal
 
 :small_blue_diamond: [archlinux-pacman](https://github.com/mrtoadie/archlinux-pacman)
 Get more out of pacman!
