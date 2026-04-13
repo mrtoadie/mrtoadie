@@ -16,6 +16,9 @@ Some examples of ready to go - ansible playbooks
 :small_blue_diamond: [dotfiles](https://github.com/mrtoadie/dotfiles)
 Some of my Linux dotfiles for inspiration and use if you like
 
+:small_blue_diamond: [cert-checker](https://github.com/mrtoadie/go-check-cert)
+simple validity checker for website certificates
+
 :small_blue_diamond: [kvm-configurator](https://github.com/mrtoadie/kvm-configurator)
 Small helper program for `virt-install` to easily create virtual machines in the terminal
 
