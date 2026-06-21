@@ -35,7 +35,3 @@ Download daily Bing wallpapers
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=transparent)
-
-
-
-![My GitHub Game](game.gif)
