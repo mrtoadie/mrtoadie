@@ -21,6 +21,8 @@ Some of my Linux dotfiles for inspiration and use if you like
 :small_blue_diamond: [cert-checker](https://github.com/mrtoadie/go-check-cert)
 simple validity checker for website certificates
 
+:small_blue_diamond: [velero-manager](https://github.com/mrtoadie/go-velero-manager) Interactive TUI tool for managing Velero backups in Kubernetes
+
 :small_blue_diamond: [kvm-configurator](https://github.com/mrtoadie/kvm-configurator)
 Small helper program for `virt-install` to easily create virtual machines in the terminal
 
