@@ -33,7 +33,6 @@ Get more out of pacman!
 Download daily Bing wallpapers
 
 ## Stats
-123
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=transparent)
