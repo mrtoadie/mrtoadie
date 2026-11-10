@@ -1,30 +1,46 @@
-![Header](github-header-banner.png)
-# Hello, World!
-Hey! I'm Toadie, welcome to my GitHub page. I love open source and Linux. 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48">
 
-#### Main Linux Distributions
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+```yaml
+# /home/toadie/.profile
+name: Toadie
+role: Cloud Engineer (M365) · Linux & Kubernetes enthusiast
+distro: ["Arch Linux", "NixOS"]
+shell: zsh
+editor: neovim (nvchad)
+motto: "self-hosted, self-broken, self-fixed"
+```
 
-#### Interessets & Skills
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+<br clear="all"/>
 
----
+Hey! I'm Toadie — professionally at home in Microsoft 365 cloud engineering, privately at home in the terminal. I run a 4-node **k3s cluster on Raspberry Pi 4s** and build my own tooling instead of waiting for someone else to write it.
 
-## Repositorys
-:small_blue_diamond: [dotfiles](https://github.com/mrtoadie/dotfiles)
-Some of my Linux dotfiles for inspiration and use if you like
+## 🖥️ Currently running in my homelab
 
-:small_blue_diamond: [cert-checker](https://github.com/mrtoadie/go-check-cert)
-simple validity checker for website certificates
+A live dashboard with real cluster metrics — collected by shell scripts, pushed via the GitHub API, rendered as a fully static site. No backend, no database, no framework:
 
-:small_blue_diamond: [velero-manager](https://github.com/mrtoadie/go-velero-manager) Interactive TUI tool for managing Velero backups in Kubernetes
+**→ [mrtoadie.github.io](https://github.com/mrtoadie/mrtoadie.github.io) — the repo that serves itself.**
+**→ [See the live site](https://mrtoadie.github.io)**
 
-:small_blue_diamond: [kvm-configurator](https://github.com/mrtoadie/kvm-configurator)
-Small helper program for `virt-install` to easily create virtual machines in the terminal
+The cluster feed updates every 5 minutes. If the cluster is down, the page degrades gracefully to demo data and tells you why. Of course it does. I built it that way after it broke. 😄
 
+## 🔧 Selected projects
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=transparent)
+| Project                                                                  | What it does                                                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| **[go-check-cert](https://github.com/mrtoadie/go-check-cert)**           | Go CLI for certificate validation — expiry, issuer and SANs at a glance              |
+| **[go-velero-manager](https://github.com/mrtoadie/go-velero-manager)**   | Interactive TUI for managing Velero backups in Kubernetes (Charm Huh, no Bubble Tea) |
+| **[kvm-configurator](https://github.com/mrtoadie/kvm-configurator)**     | Declarative KVM VMs — define specs instead of typing `virt-install` flags            |
+| **[mrtoadie.github.io](https://github.com/mrtoadie/mrtoadie.github.io)** | Static portfolio + live k3s dashboard, fed by a bash pipeline                        |
+| **[dotfiles](https://github.com/mrtoadie/dotfiles)**                     | My Linux dotfiles — for inspiration, or copy what you like                           |
+
+More configs, manifests and the collector pipeline behind the dashboard live in my [lab](https://github.com/mrtoadie/lab).
+
+## 🛠️ Toolbox
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) ![NixOS](https://img.shields.io/badge/NIXOS-5277C3?logo=nixos&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?logo=kubernetes&logoColor=white&style=flat-square) ![k3s](https://img.shields.io/badge/k3s-ffd6c3?logo=k3s&logoColor=black&style=flat-square) ![Ansible](https://img.shields.io/badge/ansible-%231A1918?logo=ansible&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/docker-%230db7ed?logo=docker&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/go-%2300ADD8?logo=go&logoColor=white&style=flat-square) ![Bash](https://img.shields.io/badge/bash-%23121011?logo=gnu-bash&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/git-%23F05033?logo=git&logoColor=white&style=flat-square) ![YAML](https://img.shields.io/badge/yaml-white?logo=yaml&logoColor=151515&style=flat-square) ![Neovim](https://img.shields.io/badge/neovim-%2357ab6a?logo=neovim&logoColor=white&style=flat-square)
+
+## 📊 Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtoadie&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtoadie&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtoadie&theme=github_dark)
