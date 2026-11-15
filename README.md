@@ -25,6 +25,7 @@ The cluster feed updates every 5 minutes. If the cluster is down, the page degra
 
 | Project                                                                  | What it does                                                                         |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| **[lab](https://github.com/mrtoadie/lab)**                               | personal lab environment                                                             |
 | **[go-check-cert](https://github.com/mrtoadie/go-check-cert)**           | Go CLI for certificate validation — expiry, issuer and SANs at a glance              |
 | **[go-velero-manager](https://github.com/mrtoadie/go-velero-manager)**   | Interactive TUI for managing Velero backups in Kubernetes (Charm Huh, no Bubble Tea) |
 | **[kvm-configurator](https://github.com/mrtoadie/kvm-configurator)**     | Declarative KVM VMs — define specs instead of typing `virt-install` flags            |
