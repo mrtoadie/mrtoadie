@@ -22,8 +22,8 @@ A live dashboard with real cluster metrics — collected by shell scripts, pushe
 The cluster feed updates every 5 minutes. If the cluster is down, the page degrades gracefully to demo data and tells you why. Of course it does. I built it that way after it broke. 😄
 
 ![k3s](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrtoadie/mrtoadie.github.io/main/data/badge.json&style=for-the-badge&logo=k3s)
-![pods](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrtoadie/mrtoadie.github.io/main/data/badge-pods.json&style=for-the-badge&logo=kubernetes)
-![telemetry](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrtoadie/mrtoadie.github.io/main/data/badge-telemetry.json&style=for-the-badge&logo=raspberrypi)
+![pods](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrtoadie/mrtoadie.github.io/main/data/badge-pods.json&style=for-the-badge&logo=kubernetes&labelColor=10263e)
+![telemetry](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mrtoadie/mrtoadie.github.io/main/data/badge-telemetry.json&style=for-the-badge&logo=raspberrypi&labelColor=0d2f18)
 
 ## 🔧 Selected projects
 
